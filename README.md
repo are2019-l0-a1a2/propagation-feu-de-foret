@@ -8,4 +8,4 @@ Ci dessous les liens au différent élément du projet:
           
           rapport
           
-          presentation_orale
+          code_clean.ipynb
