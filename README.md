@@ -6,6 +6,6 @@ Ci dessous les liens au différent élément du projet:
 
 [code](https://github.com/are2019-l0-a1a2/propagation-feu-de-foret/blob/master/code_clean.ipynb "code")
 
-\rapport
+[rapport](https://github.com/are2019-l0-a1a2/propagation-feu-de-foret/blob/master/rapport%20final%20ARE%20(2).pdf "rapport")
 
 [presentation orale](https://github.com/are2019-l0-a1a2/propagation-feu-de-foret/blob/master/Projet%20ARE.pdf "presentation orale")
