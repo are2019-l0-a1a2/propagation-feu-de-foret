@@ -8,4 +8,4 @@ Ci dessous les liens au différent élément du projet:
 
 \rapport
 
-[presentation orale]<https://github.com/are2019-l0-a1a2/propagation-feu-de-foret/blob/master/Projet%20ARE.pdf>
+[presentation orale](https://github.com/are2019-l0-a1a2/propagation-feu-de-foret/blob/master/Projet%20ARE.pdf "presentation orale")
